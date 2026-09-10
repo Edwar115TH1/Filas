@@ -21,7 +21,6 @@ public class Menu {
                     pila = m.LLenarPila(pila, sc, m);
                     break;
                 case 2:
-                    m.MostrarPila(pila);
                     System.out.println();
                     m.MostrarPilaObjetual(pila);
                     break;
